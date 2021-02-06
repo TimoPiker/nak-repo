@@ -3,5 +3,8 @@
 3rd change tag
 1st change in feature123
 Zeile hinzufügen
+<<<<<<< HEAD
+Ein Kommentar von Tobias
+=======
 Merge Conflict erzeugen?!
-Pull-Request
+>>>>>>> 5e6eccca23ebf07b2223e2d7ccd66b43180a65bb
